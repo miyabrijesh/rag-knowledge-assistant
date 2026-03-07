@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+streamlit
+# Optional — enables neural embeddings (much better retrieval quality):
+# sentence-transformers
+# Optional — enables real LLM answers (set ANTHROPIC_API_KEY in Streamlit secrets):
+# anthropic
