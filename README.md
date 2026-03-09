@@ -1,4 +1,4 @@
-# 🧠 RAG Knowledge Assistant – Retrieval Augmented Generation System
+# RAG Knowledge Assistant – Retrieval Augmented Generation System
 
 An interactive **Retrieval-Augmented Generation (RAG) system** built with Python and Streamlit that demonstrates how Large Language Models can reduce hallucinations by retrieving relevant document context before generating answers.
 
@@ -6,7 +6,7 @@ This project simulates a **knowledge assistant for company documents**, includin
 
 ---
 
-# 🚀 Live Demo
+# Live Demo
 
 Try the deployed application here:
 
@@ -14,7 +14,7 @@ Try the deployed application here:
 
 ---
 
-# 📊 Application Dashboard
+# Application Dashboard
 
 The main chat interface allows users to query internal documents and receive grounded answers retrieved from the knowledge base.
 
@@ -22,7 +22,7 @@ The main chat interface allows users to query internal documents and receive gro
 
 ---
 
-# 🎭 Hallucination Demonstration
+# Hallucination Demonstration
 
 The system compares **RAG responses** against **vanilla LLM responses** to highlight how retrieval reduces hallucinated information.
 
@@ -30,7 +30,7 @@ The system compares **RAG responses** against **vanilla LLM responses** to highl
 
 ---
 
-# ⚡ Vector Database Comparison
+# Vector Database Comparison
 
 The system compares two vector storage implementations:
 
@@ -43,7 +43,7 @@ This module benchmarks search latency and demonstrates how vector databases powe
 
 ---
 
-# 🔬 System Internals
+# System Internals
 
 The application includes visualization tools to understand how RAG works internally.
 
@@ -58,7 +58,7 @@ Features include:
 
 ---
 
-# 📊 Project Features
+# Project Features
 
 - Interactive **RAG chat assistant**
 - Hallucination comparison between **RAG vs Vanilla LLM**
@@ -70,6 +70,6 @@ Features include:
 
 ---
 
-# 🧠 RAG Pipeline Overview
+# RAG Pipeline Overview
 
 The system follows a typical Retrieval-Augmented Generation workflow.
